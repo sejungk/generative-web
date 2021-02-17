@@ -1,0 +1,2 @@
+# generative-web
+ class journal
